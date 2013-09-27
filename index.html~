@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Breakfast with architecture</title>
+    <title>ltrap by l-trap</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -16,8 +16,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="header">Breakfast with architecture</h1>
-        <p class="header">Served on Mario Bellini's furnitures </p>
+        <h1 class="header">ltrap</h1>
+        <p class="header">final-project </p>
 
         <ul>
           <li class="download"><a class="buttons" href="https://github.com/l-trap/ltrap/zipball/master">Download ZIP</a></li>
